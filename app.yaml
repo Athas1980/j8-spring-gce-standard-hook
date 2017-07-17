@@ -1,0 +1,3 @@
+service: spring-boot-app-engine
+runtime: java8
+env: standard
